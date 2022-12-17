@@ -1,0 +1,50 @@
+body{
+    background-image: linear-gradient( #0fff3b, #23cfff);
+}
+
+#result1_img{
+    width:400px;
+    height:200px;
+    box-shadow:0 6px 8px 0 rgba(2, 2, 0, 2);
+}
+
+#result2_img{
+    width:400px;
+    height:200px;
+    box-shadow:0 6px 8px 0 rgba(2, 2, 0, 2);
+}
+
+#result3_img{
+    width:400px;
+    height:200px;
+    box-shadow:0 6px 8px 0 rgba(2, 2, 0, 2);
+}
+
+#logo_img
+{
+	width: 80px;
+    margin-top: 30px;
+    border-radius: 40px;
+}
+
+h1{
+    font-family:cursive;
+    font-weight: 700;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+}
+
+img:hover{
+    border-radius:140px;
+}
+
+#camera{
+    width:600px;
+    height: 500px;
+    border-color: black;
+}
